@@ -1,4 +1,4 @@
-# Get started with Withub
+# Get started with Github
 Here are some suggested activities for getting started with github. This is what we will work on as a class during the workshop.
 
 ## Pre Class Exercise
